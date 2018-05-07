@@ -1,0 +1,7 @@
+name="Kodiflix skin and build for Kodi 17"
+url="http://www.tonystewart.cc/kodi/build/kodiflix.zip"
+img="http://www.tonystewart.cc/kodi/build/img/icon.png"
+fanart="http://www.tonystewart.cc/kodi/build/img/fanart.png"
+description="Kodiflix build as developed by SchisM"
+version="2.0"
+

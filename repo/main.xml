@@ -1,0 +1,33 @@
+<xml>
+  <dir>
+    <title>Trending Movies</title>
+    <trakt>https://api.trakt.tv/movies/trending</trakt>
+  </dir>
+
+  <dir>
+	 <title>Trending Shows</title>
+	 <trakt>https://api.trakt.tv/shows/trending</trakt>
+  </dir>
+
+  <dir>
+	<title>TMDB Airing Today</title>
+	<tmdb>tv/today</tmdb>
+  </dir>
+  
+  <dir>
+	<title>Reddit Top 250 (2017 Edition)</title>
+	<trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>  
+  </dir>
+  
+  <dir>
+	<title>Rotten Tomatoes: Best of 2017</title>
+	<trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>  
+  </dir>
+  
+  <dir>
+	<title>TMDB List: Animal Kingdom</title>
+	<trakt>list/13488</trakt>  
+  </dir>
+  
+  
+</xml>
